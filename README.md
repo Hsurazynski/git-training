@@ -36,3 +36,6 @@ git commit -m "Dodano nową linię w notes.txt"
 # wysłanie zmian na GitHub
 git push -u origin feature-nowa-funkcja
 
+```
+
+Sekcja testowa PR
