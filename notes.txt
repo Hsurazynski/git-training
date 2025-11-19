@@ -1,4 +1,6 @@
 # Notatki z gita - moduł 4 
 
 First line
-Zmiana w main dla testu rebase
+
+Linia testowa do rebase
+
