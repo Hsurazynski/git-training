@@ -39,3 +39,5 @@ git push -u origin feature-nowa-funkcja
 ```
 
 Sekcja testowa PR
+
+HOTFIX RELEASE v1.0.1
